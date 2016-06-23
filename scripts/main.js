@@ -1,1 +1,1 @@
-"use strict";console.log("'Allo 'Allo!");
+"use strict";$(document).ready(function(){$("a").smoothScroll({speed:3e3})});
