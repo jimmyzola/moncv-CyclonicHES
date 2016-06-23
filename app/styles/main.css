@@ -87,3 +87,10 @@ body {
     border-bottom: 0;
   }
 }
+
+/* modificaiton personnel */
+
+.image-row{
+  height: 100px;
+  width: 400px;
+}
