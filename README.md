@@ -7,7 +7,7 @@
 * chrome devlopper's tools
 * Sublime Text 2
 
-##tapes pour la réalisation du cv
+##étapes pour la réalisation du cv
 
 lancer la commande yo webapp avec la commande :
 ```sh
