@@ -7,7 +7,7 @@
 * chrome devlopper's tools
 * Sublime Text 2
 
-##étapes pour la réalisation du cv
+##tapes pour la réalisation du cv
 
 lancer la commande yo webapp avec la commande :
 ```sh
@@ -136,4 +136,15 @@ en :
 <div class="row marketing" id="about">
 ```
 
+
+Ensuite, j'ai adapté le style de la page selon mes besoins en me référant à la documentation de bootstrap disponible [ici](http://getbootstrap.com/).
+
+Je me suis servit de plusieurs éléments tel que : 
+* la navbar
+* la mise en page par colonne
+* le Jumbotron
+* les progress bars
+* le footer
+
+Une fois toutes les modifications effectuées, j'ai remis le site mis à jour en exploitation.
 
